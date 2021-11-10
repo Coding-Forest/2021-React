@@ -2,7 +2,8 @@
 React learning forest
 
 ## Current project
-:book: Building a children's book catalogue page with hyperlinks to corresponding book pages on Amazon.com
+#### :books: Children's book catalogue page 
+- with hyperlinks to corresponding book pages on Amazon.com
 ![Children's book catalogue in the making](https://github.com/Coding-Forest/2021-React/blob/main/0%20images/Book%20catalogue%201.png)
 
 
