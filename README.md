@@ -4,6 +4,11 @@ I'm currently building react skills through video tutorials so that I can build 
 
 <br>
 
+## Revision list
+UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
+
+<br>
+
 ## Projects
 ### 1. 📚 Children's book catalogue page
 [[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%201%20Book%20Catalogue) [[🌐Site]](https://react-forest-basic-2021.netlify.app/)
