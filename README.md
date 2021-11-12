@@ -40,7 +40,6 @@ I'm currently building react skills through video tutorials so that I can build 
 
 ## 🌳🌳🌳 Learning Trove 🌳🌳🌳
 1) **freeCodeCamp.org** (2020) Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks 
-  https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org
-2) Learn from the super hero teacher (John Smilga) and gain insane ❄️react super power☄️. 
+  https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org  
+2) Learn from super hero teacher [John Smilga](https://github.com/john-smilga) and gain insane ❄️react super power☄️.  
   https://www.johnsmilga.com/  
-  https://github.com/john-smilga/react-advanced-2020  
