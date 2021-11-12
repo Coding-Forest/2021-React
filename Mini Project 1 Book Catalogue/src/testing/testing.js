@@ -1,0 +1,1 @@
+export let catalogueOpening = 'Book catalogue now open...'
