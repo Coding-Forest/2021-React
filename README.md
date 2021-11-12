@@ -15,7 +15,7 @@ UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
 
 - Below image is the design of my catalogue page.
 - Each book info card carries a hyperlink that opens the corresponding book pages on Amazon.com
-![Children's book catalogue in the making](https://github.com/Coding-Forest/2021-React/blob/main/0%20images/Book%20catalogue%201.png)  
+![Children's book catalogue in the making](https://github.com/Coding-Forest/2021-React/blob/main/images/Book%20catalogue%201.png)  
 (3 hours of coding)
 
 <br>
