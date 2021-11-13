@@ -41,6 +41,11 @@ UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
 - Prop Drilling
 - Context API, useContext
 
+### Trouble shooting
+- `npm start` error
+  - [digital envelope routines::unsupported](https://stackoverflow.com/questions/69692842/error0308010cdigital-envelope-routinesunsupported)
+  - `package.json` >> `"start": "react-scripts --openssl-legacy-provider start"`
+
 <br>
 
 ## 🌳🌳🌳 Learning Trove 🌳🌳🌳
