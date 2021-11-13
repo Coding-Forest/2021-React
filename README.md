@@ -20,6 +20,17 @@ UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
 
 <br>
 
+### 2. 📚 Birdieland catalogue page
+[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%202%20Kiwi%20Bird%20Catalogue) [[🌐Site]](https://birdieland-catalogue.netlify.app/)  
+
+- The main page of the birdieland catalogue.
+- Bird data were collected from a bird organisation through crawling, parsed into json.
+- Each bird card is linked to the corresponding bird data page of the organisation.
+- Come check out the bird friends of New Zealand!
+![Birdieland friends catalogue](https://github.com/Coding-Forest/2021-React/blob/main/images/Bird%20catalogue%201.png)  
+
+<br>
+
 ## React Handbook
 ### Basic React concepts
 - Styling css
@@ -48,9 +59,16 @@ UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
 <br>
 
 ## Trouble shooting
-- `npm start` error
+App start errors
+- `npm start`
   - [digital envelope routines::unsupported](https://stackoverflow.com/questions/69692842/error0308010cdigital-envelope-routinesunsupported)
-  - `package.json` >> `"start": "react-scripts --openssl-legacy-provider start"`
+  - fix: `package.json` >> `"start": "react-scripts --openssl-legacy-provider start"`
+- `Browserslist: caniuse-lite is outdated. Please run the following command: npx browserslist --update-db`  
+
+App build errors  
+- `npm run build`
+  - fix: `package.json` >> `"build": "react-scripts --openssl-legacy-provider build"`
+
 
 <br>
 
