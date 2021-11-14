@@ -27,7 +27,7 @@ UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
 - Bird data were collected from a bird organisation through crawling, parsed into json.
 - Each bird card is linked to the corresponding bird data page of the organisation.
 - Come check out the bird friends of New Zealand!
-![Birdieland friends catalogue](https://github.com/Coding-Forest/2021-React/blob/main/images/Bird%20catalogue%201.png)  
+![Birdieland friends catalogue](https://github.com/Coding-Forest/2021-React/blob/main/images/Bird%20catalogue%20ver%202.png)  
 
 <br>
 
