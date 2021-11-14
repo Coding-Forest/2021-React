@@ -1,4 +1,4 @@
-# ❄️ 2021-React
+# ❄️ <span id="top">2021-React</span>
 Hi. Welcome to my React learning Forest. 
 I'm currently building react skills through video tutorials so that I can build a web app using AI models.
 
@@ -6,14 +6,14 @@ I'm currently building react skills through video tutorials so that I can build 
 
 ## Environment
 - JavaScript
-- ReactJS
-- Python (BeatifulSoup, pandas ...)
+- ❄️ReactJS
+- 🐍Python (BeatifulSoup, pandas ...)
 
 ## Project Content
 ### One-pager projects
-1. 📚 Children's book catalogue page
-2. 📚 Birdieland catalogue
-3. 📚 Atlas of South African Animals
+1. [📚 Children's book catalogue page](#project1)
+2. [📚 Birdieland catalogue](#project2)
+3. [📚 Atlas of South African Animals](#project3)
 
 <br>
 
@@ -26,8 +26,8 @@ I'm currently building react skills through video tutorials so that I can build 
 <br>
 
 ## Projects
-### 1. 📚 Children's book catalogue page
-[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%201%20Book%20Catalogue) [[🌐Site]](https://react-forest-basic-2021.netlify.app/)
+### <span id="project1">1. 📚 Children's book catalogue page</span>
+[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%201%20Book%20Catalogue) [[🌐Site]](https://react-forest-basic-2021.netlify.app/) [[👆top]](#top)
 
 - Below image is the design of my catalogue page.
 - Each book info card carries a hyperlink that opens the corresponding book pages on Amazon.com
@@ -36,8 +36,8 @@ I'm currently building react skills through video tutorials so that I can build 
 
 <br>
 
-### 2. 📚 Birdieland catalogue
-[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%202%20Kiwi%20Bird%20Catalogue) [[🌐Site]](https://birdieland-catalogue.netlify.app/)  
+### <span id="project2">2. 📚 Birdieland catalogue</span>
+[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%202%20Kiwi%20Bird%20Catalogue) [[🌐Site]](https://birdieland-catalogue.netlify.app/)  [[👆top]](#top)
 
 - The main page of the birdieland catalogue.
 - Bird data were collected from a bird organisation through crawling, parsed into json.
@@ -48,8 +48,8 @@ I'm currently building react skills through video tutorials so that I can build 
 
 <br>
 
-### 3. 📚 Atlas of South African Animals
-[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%203%20South%20African%20Animal%20Atlas) [[🌐Site]](https://south-african-animal-atlas.netlify.app/)  
+### <span id="project3">3. 📚 Atlas of South African Animals</span>
+[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%203%20South%20African%20Animal%20Atlas) [[🌐Site]](https://south-african-animal-atlas.netlify.app/)  [[👆top]](#top)
 
 - South African animal data were collected from a South African wild life organisation [AZ Animals](https://a-z-animals.com/) through crawling, parsed into json.
 - Each animal card is linked to the corresponding animal data page of [AZ Animals](https://a-z-animals.com/).
@@ -63,6 +63,9 @@ I'm currently building react skills through video tutorials so that I can build 
 <br>
 
 ## React Handbook
+
+[[👆top]](#top)
+
 ### Basic React concepts
 - Styling css
 - Props
@@ -84,12 +87,9 @@ I'm currently building react skills through video tutorials so that I can build 
 
 <br>
 
-## [CSS Handbook](https://github.com/Coding-Forest/2021-React/blob/main/2%20Visible%20CSS/css.md)
-- display: flex;
-
-<br>
-
 ## Trouble shooting
+[[👆top]](#top)
+
 App start errors
 - `npm start`
   - [digital envelope routines::unsupported](https://stackoverflow.com/questions/69692842/error0308010cdigital-envelope-routinesunsupported)
