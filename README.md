@@ -1,4 +1,4 @@
-# ❄️ <span id="top">2021-React</span>
+# <span id="top">2021-React:electron: </span>
 Hi. Welcome to my React learning Forest. 
 I'm currently building react skills through video tutorials so that I can build a web app using AI models.
 
@@ -6,7 +6,7 @@ I'm currently building react skills through video tutorials so that I can build 
 
 ## Environment
 - JavaScript
-- ❄️ReactJS
+- :electron: ReactJS
 - 🐍Python (BeatifulSoup, pandas ...)
 
 ## Project Content
