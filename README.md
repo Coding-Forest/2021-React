@@ -4,8 +4,24 @@ I'm currently building react skills through video tutorials so that I can build 
 
 <br>
 
+## Environment
+- JavaScript
+- ReactJS
+- Python (BeatifulSoup, pandas ...)
+
+## Project Content
+### One-pager projects
+1. 📚 Children's book catalogue page
+2. 📚 Birdieland catalogue
+3. 📚 Atlas of South African Animals
+
+<br>
+
 ## Revision list
-UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
+- UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
+-
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
 
 <br>
 
@@ -20,14 +36,29 @@ UseState - Array example.  https://youtu.be/4UZrsTqkcW4?t=14966
 
 <br>
 
-### 2. 📚 Birdieland catalogue page
+### 2. 📚 Birdieland catalogue
 [[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%202%20Kiwi%20Bird%20Catalogue) [[🌐Site]](https://birdieland-catalogue.netlify.app/)  
 
 - The main page of the birdieland catalogue.
 - Bird data were collected from a bird organisation through crawling, parsed into json.
 - Each bird card is linked to the corresponding bird data page of the organisation.
 - Come check out the bird friends of New Zealand!
+
 ![Birdieland friends catalogue](https://github.com/Coding-Forest/2021-React/blob/main/images/Bird%20catalogue%20ver%202.png)  
+
+<br>
+
+### 3. 📚 Atlas of South African Animals
+[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%203%20South%20African%20Animal%20Atlas) [[🌐Site]](https://south-african-animal-atlas.netlify.app/)  
+
+- South African animal data were collected from a South African wild life organisation [AZ Animals](https://a-z-animals.com/) through crawling, parsed into json.
+- Each animal card is linked to the corresponding animal data page of [AZ Animals](https://a-z-animals.com/).
+- Come check out the wild life friends of South Africa!
+- Highlights: 
+  - Image-hover feature
+  - Multiple div overlay
+ 
+![Birdieland friends catalogue](https://github.com/Coding-Forest/2021-React/blob/main/images/SA-animals.png)  
 
 <br>
 
