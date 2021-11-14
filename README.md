@@ -27,7 +27,7 @@ I'm currently building react skills through video tutorials so that I can build 
 
 ## Projects
 ### <span id="project1">1. 📚 Children's book catalogue page</span>
-[[📂Repo]](https:://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%201%20Book%20Catalogue) [[🌐Site]](https:://react-forest-basic-2021.netlify.app/) [[👆top]](#top)
+[[📂Repo]](https://github.com/Coding-Forest/2021-React/tree/main/Mini%20Project%201%20Book%20Catalogue) [[🌐Site]](https://react-forest-basic-2021.netlify.app/) [[👆top]](#top)
 
 - Below image is the design of my catalogue page.
 - Each book info card carries a hyperlink that opens the corresponding book pages on Amazon.com
